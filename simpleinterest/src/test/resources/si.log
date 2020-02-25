@@ -1,0 +1,11 @@
+
+25-02-20 20:16:32 INFO  Simple:8 - Calculating Simple Interest
+25-02-20 20:16:32 INFO  Compound:9 - Calculating Compound Interest
+25-02-20 20:16:32 INFO  Compound:13 - Returning Compound interest
+25-02-20 20:16:45 INFO  HouseCost:8 - Calculating cost of house
+25-02-20 20:16:45 INFO  HouseCost:26 - Returning cost
+25-02-20 22:28:41 INFO  Simple:8 - Calculating Simple Interest
+25-02-20 22:28:41 INFO  Compound:9 - Calculating Compound Interest
+25-02-20 22:28:41 INFO  Compound:13 - Returning Compound interest
+25-02-20 22:28:48 INFO  HouseCost:8 - Calculating cost of house
+25-02-20 22:28:48 INFO  HouseCost:26 - Returning cost
